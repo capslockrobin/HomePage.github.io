@@ -10,10 +10,7 @@ body{
    width: 100%;
   left: 0px;
   background-color: rgb(59, 58, 58);
-  /* color: #a29f9f;
-  font-size: 20px;
-  text-decoration: none;
-  right: 10px; */
+
 }
 
 #pageActive{
@@ -24,7 +21,7 @@ body{
   margin-right:auto;
   margin-left: 100px;
   padding: 10px;
-  /* margin-right: right; */
+
 }
 .item {
   background-color: rgb(59, 58, 58);
@@ -73,24 +70,12 @@ body{
 }  
 
 
-/* .me{
-   color: black;
-  padding-top: 15%;
-  font-size: 40px;
-  display: flex;
-  justify-content: space-around;
 
-  
-} */
 
 .flex-container2 {
   display: flex;
   margin-top: 8em;
   justify-content: space-around;
-   /* width: 10px; */
-  /* margin: 200px; */
-  
-   
 }
 
 
